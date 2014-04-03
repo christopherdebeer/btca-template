@@ -28,13 +28,13 @@ The activities and objectives of this Chapter, as well as any amendments are to 
 
 ###Votes
 
-Votes in favour of a Motion or Ammendment are provided in the form of cyptographic signatures. See [Signatures](#Signatures) for a more detailed specification.
+Votes in favour of a Motion or Ammendment are provided in the form of cyptographic signatures. See [Signatures](#signatures) for a more detailed specification.
 
 ###Founding Signatories
 
 As this document forms a founding manifesto prior to a Chaper having put forward any Motions or Ammendments, founding members should sign this `Manifesto.md` document and add their signatures to the top level `.signatures` folder.
 
-###<a name="Signatures"></a>Signatures
+###<a name="signatures"></a>Signatures
 
 Signatures should be created using the document to be Voted on or Signed as input and checked into its sibling `.signatures` folder as detached ascii armoured (.asc) PGP signatures.
 
