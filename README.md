@@ -1,4 +1,4 @@
 bfc-template
 ============
 
-Bitcoin Foundation Chapter Template Repo
+Bitcoin Foundation Chapter Template
