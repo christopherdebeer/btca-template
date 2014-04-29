@@ -4,18 +4,18 @@ Manifesto
 ###Our mission is to help people exchange resources and ideas more freely.
 
 
-We approach that mission with Bitcoin’s technology and community as our focus. There is tremendous potential in Bitcoin — from the opportunities it creates for entrepreneurs to the purchasing power it provides for citizens of countries large and small. Our goal is to help Bitcoin deliver on that potential.
+We approach that mission with Bitcoin's technology and community as our focus. There is tremendous potential in Bitcoin - from the opportunities it creates for entrepreneurs to the purchasing power it provides for citizens of countries large and small. Our goal is to help Bitcoin deliver on that potential.
 
 This Bitcoin Alliance Chapter has chosen three primary objectives for fulfilling its mission. We believe that these activities will be of the greatest benefit to the Bitcoin community:
 
 
 ###Education
 
-Educating the mainsteam in the uses and benefits of Bitcoin. Helping non-techincal users to understand how to make use of the technology and where apropriate providing more technical education to those that want or need it.
+Educating the mainstream in the uses and benefits of Bitcoin. Helping non-technical users to understand how to make use of the technology and where appropriate providing more technical education to those that want or need it.
 
 ###Adoption
 
-Futhering the adoption of Bitcoin as a payment method, whether as a primary or secondary mean of value exchange. Dispite the tchnical underpinnings the barriers to entry are actually less than currently available traditional methods and the community should be helping local businesses to overcome the techical and usability hurdles that currently stand between themselves and using Bitcoin.
+Furthering the adoption of Bitcoin as a payment method, whether as a primary or secondary mean of value exchange. Despite the technical underpinnings the barriers to entry are actually less than currently available traditional methods and the community should be helping local businesses to overcome the technical and usability hurdles that currently stand between themselves and using Bitcoin.
 
 ###Promotion
 
@@ -31,7 +31,7 @@ The activities and objectives of this Chapter, as well as any amendments are to 
 
 ###Votes
 
-Votes in favour of a Motion or Ammendment are provided in the form of cyptographic signatures. See [Signatures](#signatures) for a more detailed specification.
+Votes in favour of a Motion or Amendment are provided in the form of cryptographic signatures. See [Signatures](#signatures) for a more detailed specification.
 
 ###Founding Signatories
 
@@ -40,4 +40,3 @@ As this document forms a founding manifesto prior to a Chaper having put forward
 ###<a name="signatures"></a>Signatures
 
 Signatures should be created using the document to be Voted on or Signed as input and checked into its sibling `.signatures` folder as detached ascii armoured (.asc) PGP signatures.
-
