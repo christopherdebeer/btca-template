@@ -6,7 +6,7 @@ Manifesto
 
 We approach that mission with Bitcoin’s technology and community as our focus. There is tremendous potential in Bitcoin — from the opportunities it creates for entrepreneurs to the purchasing power it provides for citizens of countries large and small. Our goal is to help Bitcoin deliver on that potential.
 
-This Bitcoin Foundation Chapter has chosen three primary objectives for fulfilling its mission. We believe that these activities will be of the greatest benefit to the Bitcoin community:
+This Bitcoin Alliance Chapter has chosen three primary objectives for fulfilling its mission. We believe that these activities will be of the greatest benefit to the Bitcoin community:
 
 
 ###Education
