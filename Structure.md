@@ -16,3 +16,9 @@ As this document forms a founding manifesto prior to a Chaper having put forward
 ###<a name="signatures"></a>Signatures
 
 Signatures should be created using the document to be Voted on or Signed as input and checked into its sibling `.signatures` folder as detached ascii armoured (.asc) PGP signatures.
+
+    # An example command for creating a detached ascii armoured signature 
+    $ gpg -sba Manifesto.md
+    
+    # An example command for verifying signatures of a document, in this case the Manifesto
+    $ cat .signatures/* > .sig && gpg --verify .sig Manifesto.md
