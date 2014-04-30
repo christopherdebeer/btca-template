@@ -19,7 +19,7 @@ Furthering the adoption of Bitcoin as a payment method, whether as a primary or 
 
 ###Promotion
 
-In the context of public misunderstandings, misinterpretations and misrepresentations, Bitcoin needs to be clearer about its purpose and technology. Allowing the community to speak through a single source will enable Bitcoin to improve its reputation.
+In the context of public misunderstandings, misinterpretations and misrepresentations, Bitcoin needs to be clearer about its purpose and technology. Allowing the community to speak through a local source will enable Bitcoin to improve its reputation.
 
 
 Structure
